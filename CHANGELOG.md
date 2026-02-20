@@ -4,6 +4,8 @@ Notable changes to GridHub, roughly grouped by when they shipped.
 
 ## February 2026
 
+- **F1 Live Telemetry** — Toggleable telemetry strip showing current speed, gear, throttle, brake, DRS, and RPM per driver with faster 250ms refresh rate
+- **Purple Sector Deltas** — Session-best sectors now show the time margin over the next-fastest, and fastest speed trap is highlighted in purple
 - **F1 Live Timing Overhaul** — Complete rewrite with snapshot-first architecture, real-time tyre strategy graphics with compound badges, sector progression and mini-sector visualization, pit status detection, and auto-width tables
 - **Calendar Export Reminders** — Choose reminder alerts (10min / 30min / 1h / 24h before sessions) for both downloaded .ics files and subscribe URLs
 - **Moto2/Moto3 Results** — Historical results page now includes support class results
